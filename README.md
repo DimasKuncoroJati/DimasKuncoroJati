@@ -2,13 +2,12 @@
 
 Perkenalkan nama saya **Dimas Kuncoro Jati**.\
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Programmer dan Web Developer**.\
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
+Saya berasal dari **Universitas Pamulang** dengan jurusan **Teknik Informatika**.\
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dimas-kuncoro-jati-461a7321a/) 
+dan [Instagram](https://www.instagram.com/dimzz404/) ku ya.
 
 <p align="left">
 <a href="https://github.com/DimasKuncoroJati">
