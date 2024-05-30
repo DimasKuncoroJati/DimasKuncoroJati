@@ -6,8 +6,8 @@ Saya seorang **Programmer dan Web Developer**.\
 
 Saya berasal dari **Universitas Pamulang** dengan jurusan **Teknik Informatika**.\
 
-//Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dimas-kuncoro-jati-461a7321a/) 
-//dan [Instagram](https://www.instagram.com/dimzz404/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dimas-kuncoro-jati-76f534n87e0318/) 
+dan [Instagram](https://www.instagram.com/kyyle25e8t/) ku ya.
 
 <p align="left">
 <a href="https://github.com/DimasKuncoroJati">
